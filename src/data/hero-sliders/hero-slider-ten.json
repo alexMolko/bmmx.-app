@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "BMMX",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/bmmx/poket2.png",
+    "url": "/tienda"
+  },
+  {
+    "id": 2,
+    "title": "SOME TEXT",
+    "subtitle": " ",
+    "text": "",
+    "image": "/assets/img/bmmx/ross.png",
+    "url": "/tienda"
+  },
+  {
+    "id": 3,
+    "title": "SOME TEXT",
+    "subtitle": " ",
+    "text": "",
+    "image": "/assets/img/bmmx/vespa.png",
+    "url": "/tienda"
+  },
+  {
+    "id": 4,
+    "title": "SOME TEXT",
+    "subtitle": " ",
+    "text": "",
+    "image": "/assets/img/bmmx/cuatri.png",
+    "url": "/tienda"
+  },
+  {
+    "id": 5,
+    "title": "BMMX",
+    "subtitle": "",
+    "text": "",
+    "image": "/assets/img/bmmx/poket.png",
+    "url": "/tienda"
+  },
+  {
+    "id": 6,
+    "title": "SOME TEXT",
+    "subtitle": " ",
+    "text": "",
+    "image": "/assets/img/bmmx/ross.png",
+    "url": "/tienda"
+  }
+]
